@@ -1,0 +1,24 @@
+.Instructions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100px;
+  margin-bottom: 20px;
+  background: #c8827d;
+}
+
+.Instructions span {
+  color: #333333;
+  font-size: 1.2em;
+}
+
+.Instructions input {
+  outline: none;
+  border: none;
+  border-radius: 2px;
+  width: 280px;
+  padding: 10px;
+  margin: 0;
+}

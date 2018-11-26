@@ -1,0 +1,22 @@
+.Wrapper {
+  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.Icon {
+  width: 12px;
+  height: 12px;
+  border-radius: 20px;
+  margin-right: 5px;
+}
+
+.IconConnected {
+  background-color: #4caf50;
+}
+
+.IconDisconnected {
+  background-color: #9e9e9e;
+}

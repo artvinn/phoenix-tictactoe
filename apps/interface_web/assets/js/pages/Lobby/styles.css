@@ -1,0 +1,30 @@
+.Lobby {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.LobbyHeader {
+  font-family: 'Gochi Hand', sans-serif;
+}
+
+.LobbyHeader h1 {
+  font-size: 5em;
+  font-weight: bold;
+  color: #734B5E;
+}
+
+.Button {
+  font-size: 0.8em;
+  transition: .2s all ease-in;
+  background: #5e5567;
+  color: #fff;
+  border: 0;
+  line-height: 3rem;
+  border-radius: 3px;
+  box-shadow: 0 5px 0 0 #362b42;
+  text-transform: uppercase;
+  padding: 0px 20px;
+}
